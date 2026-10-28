@@ -1,0 +1,6 @@
+[
+  {"temp_c": 25, "humidity": 40, "job": "office", "expected": "Low"},
+  {"temp_c": 30, "humidity": 50, "job": "construction", "expected": "High"},
+  {"temp_c": 33, "humidity": 60, "job": "delivery", "expected": "Danger"},
+  {"temp_c": 35, "humidity": 70, "job": "construction", "expected": "Extreme"}
+]
